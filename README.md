@@ -7,6 +7,9 @@ Building **AI agent skills & automation tools** — I turn repetitive daily work
 **[Omni Scroll](https://github.com/hezhijie168-dev/omni-scroll)** — 主流平台万能刷流
 An agent skill that scrolls the mainstream platforms for you once a day: searches the last 7 days by keyword, *reads the full text / subtitles of every item* before judging it, and writes one cross-platform daily brief. Covers Bilibili, Xiaohongshu, Douyin, Kuaishou, Weibo, Tieba, Zhihu, YouTube and X — read-only, injection-resistant, distilled from [dsh-bili-scroll](https://github.com/c1overzz/dsh-bili-scroll).
 
+**[tcping-sweep](https://github.com/hezhijie168-dev/tcping-sweep)** — 全国 31 省三网 TCP-Ping 批量测速
+Zero-dependency Python tool that TCP-pings test nodes in all 31 Chinese provinces across the three major carriers (93 endpoints) and reports median connect latency per node.
+
 ## 🧰 What I work on
 
 - **Agent skills** — reusable, host-agnostic playbooks (Muse / Muse / Hermes style runtimes)
